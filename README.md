@@ -1,3 +1,7 @@
+# Note
+This is a Codecademy challenge project from react redux module for fullstack developer course
+
+
 # To Run
 
 Run `npm start` in the project root and the app will be available on port 3000.
