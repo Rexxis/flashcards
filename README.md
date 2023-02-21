@@ -1,5 +1,6 @@
 # Note
 This is a Codecademy challenge project from react redux module for fullstack developer course
+David Harendza, February 2023
 
 
 # To Run
